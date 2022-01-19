@@ -1,6 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 let connection;
 
+
 const handleUserInput = function(key) {
   if (key === '\u0003') {
     console.log('Exited the game!');
